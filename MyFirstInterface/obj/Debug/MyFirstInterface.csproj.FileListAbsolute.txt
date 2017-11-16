@@ -1,0 +1,7 @@
+C:\Users\Tec\source\repos\MyFirstInterface\MyFirstInterface\bin\Debug\MyFirstInterface.exe.config
+C:\Users\Tec\source\repos\MyFirstInterface\MyFirstInterface\bin\Debug\MyFirstInterface.exe
+C:\Users\Tec\source\repos\MyFirstInterface\MyFirstInterface\bin\Debug\MyFirstInterface.pdb
+C:\Users\Tec\source\repos\MyFirstInterface\MyFirstInterface\obj\Debug\MyFirstInterface.csprojResolveAssemblyReference.cache
+C:\Users\Tec\source\repos\MyFirstInterface\MyFirstInterface\obj\Debug\MyFirstInterface.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\MyFirstInterface\MyFirstInterface\obj\Debug\MyFirstInterface.exe
+C:\Users\Tec\source\repos\MyFirstInterface\MyFirstInterface\obj\Debug\MyFirstInterface.pdb
